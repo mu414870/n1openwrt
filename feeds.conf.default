@@ -12,7 +12,7 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git helloworld https://github.com/fw876/helloworld
 #src-git node https://github.com/nxhack/openwrt-node-packages.git
-src-git istore https://github.com/linkease/istore;main
+#src-git istore https://github.com/linkease/istore;main
 
-src-git nas https://github.com/linkease/nas-packages.git;master
-src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main
+#src-git nas https://github.com/linkease/nas-packages.git;master
+#src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main
